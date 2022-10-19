@@ -2,4 +2,6 @@ Esta es la historia de Sebastián.
 Tiene 24 años y es la segunda vez que decidió aprender sobre Git&Github 
 Anita tiene 41 años y nació en Internet
 
+Master 1
+
 Hoy hemos vuelto a este curso.
